@@ -13,7 +13,7 @@ public class UploadResult {
 
     private String filename;
 
-    private String code;
+    private String server;
 
-    private String filelocation;
+    private String state;
 }
